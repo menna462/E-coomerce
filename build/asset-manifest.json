@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.36b52be0.css",
+    "main.js": "/static/js/main.10904357.js",
+    "static/media/dairy.jpg": "/static/media/dairy.fddd5c4dd2077aacd5d0.jpg",
+    "static/media/imgHeader.jpg": "/static/media/imgHeader.38ee1acb330836c5ed68.jpg",
+    "static/media/fruits.jpg": "/static/media/fruits.75f28aaad106cfd7dd2a.jpg",
+    "static/media/premium.png": "/static/media/premium.35698877da5818378da4.png",
+    "static/media/herbs.jpg": "/static/media/herbs.a1480ca432997f96c464.jpg",
+    "static/media/deliveryMan.jpg": "/static/media/deliveryMan.773358a761ece972ed27.jpg",
+    "static/media/aboutUsAnimation-696ed0b6.gif": "/static/media/aboutUsAnimation-696ed0b6.ef6a1245c4dbf9f97de9.gif",
+    "static/media/phone.jpg": "/static/media/phone.d5b3624ddbd8e6f851fe.jpg",
+    "static/media/background1.jpg": "/static/media/background1.d13a62bd80b302dc5752.jpg",
+    "static/media/vegetables.jpg": "/static/media/vegetables.27e82622d39e57b38ac5.jpg",
+    "static/media/meet.jpg": "/static/media/meet.ef3f660daff02d29925e.jpg",
+    "static/media/bgformation.jpg": "/static/media/bgformation.9f1ec61445f2599cfdd2.jpg",
+    "index.html": "/index.html",
+    "main.36b52be0.css.map": "/static/css/main.36b52be0.css.map",
+    "main.10904357.js.map": "/static/js/main.10904357.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36b52be0.css",
+    "static/js/main.10904357.js"
+  ]
+}
